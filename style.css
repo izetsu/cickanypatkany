@@ -1,0 +1,28 @@
+body {
+    background-color: #9CEE59;
+    color: black;
+}
+a {
+    color: #999999;
+}
+#tabla1 {
+    width: 980px;
+    padding: 0px;
+    border-spacing: 0px;
+    background-color: #509050;
+    margin: auto;
+}
+#tabla2 {
+    width: 940px;
+    margin: auto;
+    background-color: white;
+    padding: 1px;
+    border-spacing: 0px;
+}
+.cella1 {
+    height: 40px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    vertical-align: middle;
+}
